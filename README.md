@@ -53,7 +53,7 @@ Production AI health assistant at Fini (US startup).
 
 ## 📫 Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/fatima-tuz-zehra)
+- 💼 www.linkedin.com/in/fatima-tuz-zehra-678ba121a
 - 📧 zehra99hassan@gmail.com
 - 🎓 MS in Artificial Intelligence · NED University of Engineering & Technology
 
